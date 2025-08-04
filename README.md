@@ -18,3 +18,8 @@ A simple and interactive weather application built with HTML, CSS, and JavaScrip
 ## 🖼️ Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4f16e6e-a329-4aa0-a319-b1039567a18d" />
 
+## Const apiKey
+"084d5490466eea7df94028936e35bf9a"
+
+##Const apiUrl 
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q="
